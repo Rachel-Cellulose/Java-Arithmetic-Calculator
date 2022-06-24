@@ -1,0 +1,24 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color:hsl(39, 40%, 68%);
+    margin: 2px auto;
+}
+
+.numbers{
+    background-color: rgb(224, 153, 66);
+    color: rgb(19, 16, 7);
+    padding: 10px 20px;
+    font-size: 20px;
+    text-align:center ;
+}
+.buttons{
+    background-color:rgb(241, 228, 212);
+    color: black;
+}
+.close{
+    font-size: 20px;
+}
+.text{
+    background-color: blanchedalmond;
+    font-size: 25px;
+}
